@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho com desenvolvimento Mobile 
 - 🌱 Estundando Swift - SwiftUI - Flutter - MVVM
-- 😄 Ele/Dele
+
 
 <div>
 <a href="https://github.com/eriksonloures">
