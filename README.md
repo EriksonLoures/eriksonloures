@@ -1,7 +1,7 @@
 ### Olá eu sou o Erikson 👋
 
 - 🔭 Hoje trabalho com desenvolvimento Mobile 
-- 🌱 Estundando Swift - SwiftUI - Flutter - MVVM
+- 🚀 Swift - SwiftUI - JavaScript - React Native - Flutter - MVVM
 
 
 <div>
